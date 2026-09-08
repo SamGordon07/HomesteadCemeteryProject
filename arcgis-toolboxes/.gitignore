@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# ArcGIS
+*.aprx.lock
+*.gdb/
+*.mdb
+*.lock
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
