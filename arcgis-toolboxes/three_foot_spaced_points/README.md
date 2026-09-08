@@ -58,13 +58,7 @@ Both modes can be used in the same run — pairs and a circle aren't mutually ex
 
 ## Screenshots
 
-_Add screenshots or a short GIF here showing: (1) the tool's parameter form in ArcGIS Pro, and (2) a before/after map view of the generated points._
 
-```
-images/
-  parameter_form.png
-  before_after_map.png
-```
 
 ## Try the logic without ArcGIS
 
